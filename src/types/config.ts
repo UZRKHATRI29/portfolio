@@ -14,12 +14,13 @@ export interface Experience {
   endDate: string;
   responsibilities: string[];
 }
+
 export interface Project {
   title: string;
   description: string;
   tags: string[];
   image: string;
-  url: string;
+  url?: string;  // Make 'url' optional
   github?: string;
 }
 

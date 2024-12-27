@@ -36,6 +36,7 @@
       "description": "This project involves building a machine learning model to predict cab fares based on factors such as distance, ride duration, location, and time of day. The model aims to provide accurate fare estimates, enhancing customer experience and operational efficiency for cab service providers.",
       "tags": ["Python", "LinearRegression", "Sckitlearn"],
       "image": "https://placehold.co/600x400?text=Cab+FarePrediction",
+      "url": "https://banglorepricepredection.onrender.com/",
       "github": "https://github.com/UZRKHATRI29/Cab-Fare-Prediction-"
     },
     {
@@ -43,6 +44,7 @@
       "description": "Analyzed Airbnb data using Tableau to create interactive dashboards showcasing pricing patterns, occupancy trends, and neighborhood preferences, providing actionable insights for hosts and travelers.",
       "tags": ["Tableau", "Data Preprocessing", "Dashboard"],
       "image": "https://placehold.co/600x400?text=Tableau+Dashboard",
+      "github": "https://github.com/UZRKHATRI29/Cab-Fare-Prediction-",
       "url": "https://public.tableau.com/app/profile/mahammad.uzer.khatri/viz/AirBnBFullProject_17151505281320/Dashboard1"
     }
   ],
