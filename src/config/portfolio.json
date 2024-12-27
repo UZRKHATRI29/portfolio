@@ -1,0 +1,86 @@
+{
+  "personal": {
+    "name": "Uzer Khatri",
+    "role": "Data Analyst",
+    "description": "I uncover insights and craft data-driven solutions to empower smarter decisions and drive impactful outcomes.",
+    "avatar": "/avatar.jpg",
+    "location": "Vadodara, IND",
+    "email": "uzerkhatri812@gmail.com",
+    "socials": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/uzrkhatri29"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/johndoe"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "With a passion for uncovering patterns and insights, I analyze complex datasets to deliver actionable solutions that drive growth and innovation.",
+    "resume": "/Resume_Uzer.pdf"
+  },
+  "projects": [
+    {
+      "title": "Banglore House Price Prediction",
+      "description": "This project focuses on predicting house prices in Bangalore using advanced machine learning algorithms. By analyzing various features such as location, size, and amenities, the model provides accurate price estimates, assisting buyers and sellers in making informed decisions.",
+      "tags": ["Python", "Flask", "RigeModel"],
+      "image": "https://placehold.co/600x400?text=Bangalore+House+Price+Prediction",
+      "url": "https://banglorepricepredection.onrender.com/",
+      "github": "https://github.com/UZRKHATRI29/BangloreHousePrediction"
+    },
+    {
+      "title": "Cab Fare Prediction",
+      "description": "This project involves building a machine learning model to predict cab fares based on factors such as distance, ride duration, location, and time of day. The model aims to provide accurate fare estimates, enhancing customer experience and operational efficiency for cab service providers.",
+      "tags": ["Python", "LinearRegression", "Sckitlearn"],
+      "image": "https://placehold.co/600x400?text=Cab+FarePrediction",
+      "github": "https://github.com/UZRKHATRI29/Cab-Fare-Prediction-"
+    },
+    {
+      "title": "Cab Fare Prediction",
+      "description": "Analyzed Airbnb data using Tableau to create interactive dashboards showcasing pricing patterns, occupancy trends, and neighborhood preferences, providing actionable insights for hosts and travelers.",
+      "tags": ["Tableau", "Data Preprocessing", "Dashboard"],
+      "image": "https://placehold.co/600x400?text=Tableau+Dashboard",
+      "url": "https://public.tableau.com/app/profile/mahammad.uzer.khatri/viz/AirBnBFullProject_17151505281320/Dashboard1"
+    }
+  ],
+  "skills": [
+    { "name": "Python" },
+    { "name": " SQL" },
+    { "name": "JavaScript" },
+    { "name": "Power BI" },
+    { "name": "Tableau" },
+    { "name": "Data Preprocessing" },
+    { "name": "Matplotlib" },
+    { "name": "Git" },
+    { "name": "Figma" },
+    { "name": "Feature Engineering" },
+    { "name": "Problem Solving" }
+  ],
+  "experience": [
+    {
+      "company": "Ededge Groups",
+      "role": "Data Analyst",
+      "startDate": "Aug 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Analyzed and interpreted datasets to provide actionable insights for training program improvements.",
+        "Conducted data cleaning, preprocessing, and visualization to support decision-making processes.",
+        "Developed and maintained dashboards in Tableau and Excel to track training program performance metrics"
+      ]
+    },
+    {
+      "company": "Edu-Versity",
+      "role": "Data Science Intern",
+      "startDate": "January 2024",
+      "endDate": "May 2024",
+      "responsibilities": [
+        "Conducted data cleaning, preprocessing, and exploratory data analysis using Python and SQL on 5+ complex datasets.",
+        "Built data visualization dashboards to present key insights, enabling data-driven decision-making.",
+        "Developed and implemented machine learning models to solve real-world business problems."
+      ]
+    }
+  ]
+}
